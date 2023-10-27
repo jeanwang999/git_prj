@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkfor_git"]=self["webpackChunkfor_git"]||[]).push([[443],{3805:function(n,t,u){u.r(t),u.d(t,{default:function(){return h}});var r=u(3396);const a={class:"about"},e=(0,r._)("h1",null,"This is an about page",-1),s=(0,r._)("h1",null,"THIS IS GITHUB TEST!!!!!",-1),i=[e,s];function c(n,t){return(0,r.wg)(),(0,r.iD)("div",a,i)}var o=u(89);const f={},l=(0,o.Z)(f,[["render",c]]);var h=l}}]);
+//# sourceMappingURL=about.1741cba6.js.map
